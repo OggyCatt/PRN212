@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.exe
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.deps.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.runtimeconfig.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfo.cs
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\refint\PassByValue.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.genruntimeconfig.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByValue\obj\Debug\net8.0\ref\PassByValue.dll

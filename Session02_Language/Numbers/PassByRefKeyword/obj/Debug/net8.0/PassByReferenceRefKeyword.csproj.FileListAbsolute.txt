@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\bin\Debug\net8.0\PassByReferenceRefKeyword.exe
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\bin\Debug\net8.0\PassByReferenceRefKeyword.deps.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\bin\Debug\net8.0\PassByReferenceRefKeyword.runtimeconfig.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\bin\Debug\net8.0\PassByReferenceRefKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\bin\Debug\net8.0\PassByReferenceRefKeyword.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.AssemblyInfo.cs
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\refint\PassByReferenceRefKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\PassByReferenceRefKeyword.genruntimeconfig.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByRefKeyword\obj\Debug\net8.0\ref\PassByReferenceRefKeyword.dll

@@ -1,0 +1,14 @@
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\bin\Debug\net8.0\NullableTester.exe
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\bin\Debug\net8.0\NullableTester.deps.json
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\bin\Debug\net8.0\NullableTester.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\bin\Debug\net8.0\NullableTester.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\bin\Debug\net8.0\NullableTester.pdb
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\refint\NullableTester.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.pdb
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\NullableTester.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\Nullable\NullableTester\obj\Debug\net8.0\ref\NullableTester.dll

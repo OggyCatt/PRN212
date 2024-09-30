@@ -1,0 +1,15 @@
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\bin\Debug\net8.0\Version3.exe
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\bin\Debug\net8.0\Version3.deps.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\bin\Debug\net8.0\Version3.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\bin\Debug\net8.0\Version3.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\bin\Debug\net8.0\Version3.pdb
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.sourcelink.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\refint\Version3.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.pdb
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\Version3.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Version3\obj\Debug\net8.0\ref\Version3.dll

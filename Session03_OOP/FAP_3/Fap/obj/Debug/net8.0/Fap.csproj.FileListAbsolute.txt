@@ -1,0 +1,15 @@
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\bin\Debug\net8.0\Fap.exe
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\bin\Debug\net8.0\Fap.deps.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\bin\Debug\net8.0\Fap.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\bin\Debug\net8.0\Fap.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\bin\Debug\net8.0\Fap.pdb
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.sourcelink.json
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\refint\Fap.dll
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.pdb
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\Fap.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session03_OOP\FAP_3\Fap\obj\Debug\net8.0\ref\Fap.dll

@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.exe
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.deps.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.runtimeconfig.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfo.cs
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\refint\PassByReferenceOutKeyword.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.genruntimeconfig.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session02_Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\ref\PassByReferenceOutKeyword.dll

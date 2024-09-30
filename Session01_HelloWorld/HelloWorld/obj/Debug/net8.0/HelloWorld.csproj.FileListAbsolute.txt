@@ -1,0 +1,15 @@
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Users/tuandat/Documents/WorkSpace/PRN212/Session01_HelloWorld/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll

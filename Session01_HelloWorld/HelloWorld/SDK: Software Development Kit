@@ -1,0 +1,24 @@
+SDK: Software Development Kit
+ 		DEV Tools
+Java: SDK for Java 8.0, 9.0,...
+.cs(C Sharp) .vb .cpp
+DEPENDENCY - Library
+
+.Net Runtime : CMD
+.Net asp.net : web/app
+.net windows runtime: app/winform 
+
+Biến: 1 vùng ram đặt tên và lưu giá trị
+Biến môi trường: Nơi lưu trữ thông tin 
+
+.EXE: executable
+.DLL:
+
+SDK supports
+C#, VB.NET, F#, C++
+
+Terminal code:
+--framework net8.0 --use-program-main 
+
+
+

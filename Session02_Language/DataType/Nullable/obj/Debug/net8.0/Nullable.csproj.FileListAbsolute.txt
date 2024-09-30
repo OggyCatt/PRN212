@@ -1,0 +1,14 @@
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\bin\Debug\net8.0\Nullable.exe
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\bin\Debug\net8.0\Nullable.deps.json
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\bin\Debug\net8.0\Nullable.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\bin\Debug\net8.0\Nullable.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\bin\Debug\net8.0\Nullable.pdb
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\refint\Nullable.dll
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.pdb
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\Nullable.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session02_Language\DataType\Nullable\obj\Debug\net8.0\ref\Nullable.dll
