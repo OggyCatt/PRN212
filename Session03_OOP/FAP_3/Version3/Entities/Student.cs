@@ -36,8 +36,24 @@ namespace Version3.Entities
             set => _id = value;
         }
 
+        public string Name
+        {
+            get => _name;
+            set => _name = value;
+        }
+        public int Yob
+        {
+            get => _yob;
+            set => _yob = value;
+        }
 
+        public double Gpa
+        {
+            get => _gpa;
+            set => _gpa = value;
+        }
 
-
+        public override string? ToString()
+            => $"Id: {Id}, Name: {Name}, Yob: {Yob}, Gpa: {Gpa}";
     }
 }

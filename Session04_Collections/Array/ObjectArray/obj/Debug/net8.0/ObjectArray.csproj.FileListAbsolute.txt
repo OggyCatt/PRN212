@@ -1,0 +1,15 @@
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.sourcelink.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.exe
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.deps.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.pdb
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\refint\ObjectArray.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.pdb
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\Array\ObjectArray\obj\Debug\net8.0\ref\ObjectArray.dll

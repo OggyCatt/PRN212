@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|z:\\documents\\workspace\\prn212\\session03_oop\\fap_3\\version3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|solutionrelative:version3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|z:\\documents\\workspace\\prn212\\session03_oop\\fap_3\\version3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|solutionrelative:version3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|z:\\documents\\workspace\\prn212\\session03_oop\\fap_3\\version3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|solutionrelative:version3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8FE8D4-9B79-499C-AFB4-D9909AC0F17A}|Version3\\Version3.csproj|z:\\documents\\workspace\\prn212\\session03_oop\\fap_3\\version3\\version3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Version3\\Entities\\Student.cs",
-              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Entities\\Student.cs",
-              "RelativeToolTip": "Version3\\Entities\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAIA8wCQAAAAJAAAAAAAAAA==",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Entities\\Student.cs*",
+              "RelativeToolTip": "Version3\\Entities\\Student.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwDgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T07:44:36.856Z",
               "EditorCaption": ""
@@ -67,18 +67,17 @@
               "RelativeToolTip": "Version3\\Version3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T07:44:04.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T07:44:04.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Program.cs",
               "RelativeDocumentMoniker": "Version3\\Program.cs",
-              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Program.cs",
-              "RelativeToolTip": "Version3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session03_OOP\\FAP_3\\Version3\\Program.cs*",
+              "RelativeToolTip": "Version3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T07:42:22.381Z",
               "EditorCaption": ""
@@ -93,8 +92,7 @@
               "RelativeToolTip": "Fap\\Fap.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T07:17:14.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T07:17:14.224Z"
             },
             {
               "$type": "Document",

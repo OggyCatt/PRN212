@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9ACEE-DF0D-4F6E-9DC6-C9BB6D85EEC3}|ObjectArray\\ObjectArray.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\array\\objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9ACEE-DF0D-4F6E-9DC6-C9BB6D85EEC3}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E9ACEE-DF0D-4F6E-9DC6-C9BB6D85EEC3}|ObjectArray\\ObjectArray.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\array\\objectarray\\entities\\giaoansv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E9ACEE-DF0D-4F6E-9DC6-C9BB6D85EEC3}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\entities\\giaoansv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279F67DA-F850-4DC0-AB0C-3D4E3D26E520}|BasicArray\\BasicArray.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\array\\basicarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279F67DA-F850-4DC0-AB0C-3D4E3D26E520}|BasicArray\\BasicArray.csproj|solutionrelative:basicarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiaoAnSV.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\ObjectArray\\Entities\\GiaoAnSV.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Entities\\GiaoAnSV.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\ObjectArray\\Entities\\GiaoAnSV.cs",
+              "RelativeToolTip": "ObjectArray\\Entities\\GiaoAnSV.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vx4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:57:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\ObjectArray\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Program.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\ObjectArray\\Program.cs",
+              "RelativeToolTip": "ObjectArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:55:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\BasicArray\\Program.cs",
+              "RelativeDocumentMoniker": "BasicArray\\Program.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\Array\\BasicArray\\Program.cs",
+              "RelativeToolTip": "BasicArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:04:33.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
