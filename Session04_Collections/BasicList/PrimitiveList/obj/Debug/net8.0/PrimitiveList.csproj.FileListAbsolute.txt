@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\bin\Debug\net8.0\PrimitiveList.exe
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\bin\Debug\net8.0\PrimitiveList.deps.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\bin\Debug\net8.0\PrimitiveList.runtimeconfig.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\bin\Debug\net8.0\PrimitiveList.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\bin\Debug\net8.0\PrimitiveList.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.AssemblyInfo.cs
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.sourcelink.json
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\refint\PrimitiveList.dll
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.pdb
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\PrimitiveList.genruntimeconfig.cache
+\\Mac\Home\Documents\WorkSpace\PRN212\Session04_Collections\BasicList\PrimitiveList\obj\Debug\net8.0\ref\PrimitiveList.dll

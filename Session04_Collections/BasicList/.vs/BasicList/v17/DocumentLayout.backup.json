@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\BasicList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FBF58E-5DCF-4424-A1BD-96F6F304902F}|PrimitiveList\\PrimitiveList.csproj|\\\\mac\\home\\documents\\workspace\\prn212\\session04_collections\\basiclist\\primitivelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\BasicList\\PrimitiveList\\Program.cs",
+              "RelativeDocumentMoniker": "PrimitiveList\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\BasicList\\PrimitiveList\\Program.cs*",
+              "RelativeToolTip": "PrimitiveList\\Program.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:03:14.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

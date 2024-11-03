@@ -1,0 +1,15 @@
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.exe
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.deps.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.runtimeconfig.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\bin\Debug\net8.0\StudentTester.pdb
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfoInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfo.cs
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.csproj.CoreCompileInputs.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.sourcelink.json
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\refint\StudentTester.dll
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.pdb
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\StudentTester.genruntimeconfig.cache
+Z:\Documents\WorkSpace\PRN212\Session04_Collections\StudentManager\StudentTester\obj\Debug\net8.0\ref\StudentTester.dll

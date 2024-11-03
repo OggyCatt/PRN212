@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\mycv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\mycv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\mycv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\mycv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\cvtester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\cvtester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|d:\\fpt\\prn212\\session05-gui\\cvmanager\\cvtester\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CB0D85-B32F-46E5-9CE9-AEFC6842737C}|CVTester\\CVTester.csproj|solutionrelative:cvtester\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CVTester.csproj",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\CVTester.csproj",
+              "RelativeDocumentMoniker": "CVTester\\CVTester.csproj",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\CVTester.csproj",
+              "RelativeToolTip": "CVTester\\CVTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T06:05:17.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\App.xaml",
+              "RelativeDocumentMoniker": "CVTester\\App.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\App.xaml",
+              "RelativeToolTip": "CVTester\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T07:17:45.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "CVTester\\Login.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Login.xaml.cs",
+              "RelativeToolTip": "CVTester\\Login.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:09:36.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Login.xaml",
+              "RelativeDocumentMoniker": "CVTester\\Login.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Login.xaml",
+              "RelativeToolTip": "CVTester\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T07:08:22.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CVTester\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\AssemblyInfo.cs",
+              "RelativeToolTip": "CVTester\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:46:31.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CVTester\\App.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\App.xaml.cs",
+              "RelativeToolTip": "CVTester\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:46:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCV.xaml",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\MyCV.xaml",
+              "RelativeDocumentMoniker": "CVTester\\MyCV.xaml",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\MyCV.xaml*",
+              "RelativeToolTip": "CVTester\\MyCV.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T06:42:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyCV.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\MyCV.xaml.cs",
+              "RelativeDocumentMoniker": "CVTester\\MyCV.xaml.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\MyCV.xaml.cs",
+              "RelativeToolTip": "CVTester\\MyCV.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:42:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "CVTester\\Entities\\Candidate.cs",
+              "ToolTip": "D:\\FPT\\PRN212\\Session05-GUI\\CVManager\\CVTester\\Entities\\Candidate.cs",
+              "RelativeToolTip": "CVTester\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:06:17.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\lecturerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttesterv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttesterv2\\studenttesterv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9988CDAD-3670-4B15-A80B-9CCD70847B8D}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\studenttesterv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|z:\\documents\\workspace\\prn212\\session04_collections\\studentmanager\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12320688-A5D3-4429-88E7-89C85E4E8A39}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Student.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:51:02.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Lecturer.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:50:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV2\\Services\\Cabinet.cs",
+              "ViewState": "AgIAACUAAADAmpmZmVkowDcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:47:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentTesterV2.csproj",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\StudentTesterV2.csproj",
+              "RelativeDocumentMoniker": "StudentTesterV2\\StudentTesterV2.csproj",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\StudentTesterV2.csproj",
+              "RelativeToolTip": "StudentTesterV2\\StudentTesterV2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T07:46:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentTester.csproj",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeDocumentMoniker": "StudentTester\\StudentTester.csproj",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\StudentTester.csproj",
+              "RelativeToolTip": "StudentTester\\StudentTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T07:46:08.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Program.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTesterV2\\Program.cs",
+              "RelativeToolTip": "StudentTesterV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:46:03.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LecturerService.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Services\\LecturerService.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Services\\LecturerService.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Services\\LecturerService.cs",
+              "RelativeToolTip": "StudentTester\\Services\\LecturerService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:33:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Lecturer.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:32:06.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Services\\StudentService.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentTester\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAgAAAAAWGZmZuYcwFEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:41:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:41:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
+              "ToolTip": "Z:\\Documents\\WorkSpace\\PRN212\\Session04_Collections\\StudentManager\\StudentTester\\Program.cs",
+              "RelativeToolTip": "StudentTester\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:40:17.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

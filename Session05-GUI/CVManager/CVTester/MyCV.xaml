@@ -1,0 +1,33 @@
+﻿<Window x:Class="CVTester.MyCV"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CVTester"
+        mc:Ignorable="d"
+        Title="My CV" Height="450" Width="800" Background="#ff4500">
+    <Grid>
+        <DataGrid x:Name="CandidateListDataGrid" HorizontalAlignment="Left" 
+                  Height="277" Margin="29,0,0,0" 
+                  VerticalAlignment="Center" Width="506" 
+                  SelectionChanged="DataGrid_SelectionChanged" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã số ứng viên" Width="100" 
+                                    Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Tên ứng viên" Width="100" 
+                                    Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Năm sinh" Width="70" 
+                                    Binding="{Binding Yob}"/>
+                <DataGridTextColumn Header="Vị trí" Width="120" 
+                                    Binding="{Binding Position}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="LoadButton" Content="Load Data" HorizontalAlignment="Left" Height="59" Margin="591,95,0,0" 
+                VerticalAlignment="Top" Width="172" Click="LoadButton_Click" />
+        <Button Content="Button" HorizontalAlignment="Left" Height="62" Margin="591,280,0,0" VerticalAlignment="Top" Width="159"
+                Style="{StaticResource PurpleButton}"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="61" Margin="591,195,0,0" VerticalAlignment="Top" Width="159"/>
+
+    </Grid>
+</Window>
